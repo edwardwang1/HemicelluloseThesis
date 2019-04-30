@@ -1,0 +1,226 @@
+HemicelluloseExtractionOfMixedSouthernHardwood.xlsx
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.807e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=5.49039e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=6.90758e-17): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  0
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.44236e-17): result may not be accurate.
+  overwrite_a=True).T
+Best kernel is:  rbf
+Best Gamma is:  0.01
+Best C is:  10.0
+Error in valid: 154.1095792028975
+EXTRACTION_OF_HEMICELLULOSES_ BY_ ACID.xlsx
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=3.78985e-17): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  0
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=2.01412e-17): result may not be accurate.
+  overwrite_a=True).T
+Best kernel is:  linear
+Best Gamma is:  0.03162277660168379
+Best C is:  0.1
+Error in valid: 134.33622207198664
+PrehydrolysisOfEucalyptusWoodWithDiluteSulphuricAcidAutoclave.xlsx
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=2.64856e-17): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  0
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=4.14424e-17): result may not be accurate.
+  overwrite_a=True).T
+Best kernel is:  rbf
+Best Gamma is:  0.31622776601683794
+Best C is:  31.622776601683793
+Error in valid: 158.79383301596664
+KineticStuidesOfAcidHyrolysisOfMerantiWood.xlsx
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=6.0607e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=5.11771e-17): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  0
+Best kernel is:  linear
+Best Gamma is:  0.03162277660168379
+Best C is:  0.31622776601683794
+Error in valid: 170.24016984259595
+DesignOfProcessParametersForProudctionOfXylose.xlsx
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.17176e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=7.91308e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=9.16178e-18): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  0
+Best kernel is:  linear
+Best Gamma is:  0.31622776601683794
+Best C is:  0.1
+Error in valid: 167.46220741853244
+QuantitativeAnalysisofSugarsInWoodHydrolyzates.xlsx
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=3.76131e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=6.80394e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=3.63425e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=7.34743e-17): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  0
+Best kernel is:  rbf
+Best Gamma is:  0.01
+Best C is:  3.1622776601683795
+Error in valid: 159.30639823193107
+OptimizationofHydrothermalACS.xlsx
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.26165e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=6.30733e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.12978e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=6.31943e-17): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  0
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=2.88204e-17): result may not be accurate.
+  overwrite_a=True).T
+Best kernel is:  rbf
+Best Gamma is:  0.01
+Best C is:  1.0
+Error in valid: 154.29974441586717
+EffectofEucalytpusGlobulusWoodAutohydrolysis.xlsx
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=7.35544e-18): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=2.25192e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=4.32477e-17): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  0
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=3.40361e-17): result may not be accurate.
+  overwrite_a=True).T
+Best kernel is:  linear
+Best Gamma is:  0.31622776601683794
+Best C is:  0.31622776601683794
+Error in valid: 156.09341050415676
+ExtractionOfXylansFromHardwoodChips.xlsx
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=4.87888e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=9.56565e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=5.2122e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=6.74389e-17): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  0
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=3.2612e-17): result may not be accurate.
+  overwrite_a=True).T
+Best kernel is:  rbf
+Best Gamma is:  0.03162277660168379
+Best C is:  10.0
+Error in valid: 158.27089712606707
+ProductionOfXyloseFromMerantiWood.xlsx
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=2.99341e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=2.25192e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.2592e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.30638e-17): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  0
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=2.92542e-17): result may not be accurate.
+  overwrite_a=True).T
+Best kernel is:  rbf
+Best Gamma is:  0.01
+Best C is:  3.1622776601683795
+Error in valid: 165.48883996122245
+MildAutohydrolysisAnEnvironmentallyFriendlyTechnologXyl.xlsx
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=8.72685e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=4.72116e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=2.11848e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=6.12273e-17): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  0
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.64776e-17): result may not be accurate.
+  overwrite_a=True).T
+Best kernel is:  rbf
+Best Gamma is:  0.03162277660168379
+Best C is:  10.0
+Error in valid: 166.79313922042948
+HotWaterPretreatment.xlsx
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=4.06444e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=7.46374e-17): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  0
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=4.41503e-18): result may not be accurate.
+  overwrite_a=True).T
+Best kernel is:  linear
+Best Gamma is:  0.1
+Best C is:  1.0
+Error in valid: 151.33717956200056
+Generation of xylose solutions from Eucalyptus globulus wood.xlsx
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=4.99213e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.20626e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=2.0111e-19): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=3.40539e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.02478e-16): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  0
+Best kernel is:  linear
+Best Gamma is:  0.31622776601683794
+Best C is:  0.1
+Error in valid: 106.49237456579985
+PrehydrolysisOfEucalyptusWoodWithDiluteSulphuricAcidAtmostpheric.xlsx
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.04259e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.18773e-17): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  0
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=3.80554e-17): result may not be accurate.
+  overwrite_a=True).T
+Best kernel is:  rbf
+Best Gamma is:  0.01
+Best C is:  3.1622776601683795
+Error in valid: 161.9001272274246
+OptimizationOfHydrothermalCHEMPUP.xlsx
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=4.20701e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=4.74871e-18): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.08783e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=2.25192e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=5.43037e-18): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.1665e-17): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  0
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.78507e-17): result may not be accurate.
+  overwrite_a=True).T
+Best kernel is:  linear
+Best Gamma is:  0.01
+Best C is:  3.1622776601683795
+Error in valid: 155.91052582563236
+HemicelluloseRemovalFromHardwood.xlsx
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=3.88091e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=2.36402e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=4.94893e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.02836e-16): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=3.59604e-18): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  0
+Best kernel is:  linear
+Best Gamma is:  0.1
+Best C is:  0.1
+Error in valid: 156.2939871423191
+
+ 

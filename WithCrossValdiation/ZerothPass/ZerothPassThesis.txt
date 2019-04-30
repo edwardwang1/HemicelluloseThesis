@@ -1,0 +1,106 @@
+PrehydrolysisOfEucalyptusWoodWithDiluteSulphuricAcidAtmostpheric.xlsx
+Best kernel is:  rbf
+Best Gamma is:  1
+Best C is:  100
+Error in valid: 2.93531972062203
+Error in testing:  39.714404706580495
+Generation of xylose solutions from Eucalyptus globulus wood.xlsx
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=2.45137e-17): result may not be accurate.
+  overwrite_a=True).T
+Best kernel is:  rbf
+Best Gamma is:  0.1
+Best C is:  100
+Error in valid: 2.6777319865406164
+Error in testing:  58.93169654898862
+KineticStuidesOfAcidHyrolysisOfMerantiWood.xlsx
+Best kernel is:  rbf
+Best Gamma is:  1
+Best C is:  100
+Error in valid: 2.891768430225061
+Error in testing:  4.576390968145944
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.00079e-16): result may not be accurate.
+  overwrite_a=True).T
+OptimizationofHydrothermalACS.xlsx
+Best kernel is:  rbf
+Best Gamma is:  1
+Best C is:  100
+Error in valid: 2.4808555659562392
+Error in testing:  20.629453412298123
+MildAutohydrolysisAnEnvironmentallyFriendlyTechnologXyl.xlsx
+Best kernel is:  rbf
+Best Gamma is:  1
+Best C is:  100
+Error in valid: 2.67201551775415
+Error in testing:  14.560932773165582
+PrehydrolysisOfEucalyptusWoodWithDiluteSulphuricAcidAutoclave.xlsx
+Best kernel is:  rbf
+Best Gamma is:  1
+Best C is:  100
+Error in valid: 3.0673670594179345
+Error in testing:  30.69252261590446
+HemicelluloseExtractionOfMixedSouthernHardwood.xlsx
+Best kernel is:  rbf
+Best Gamma is:  1
+Best C is:  100
+Error in valid: 2.7509196108771103
+Error in testing:  27.424534249649867
+ExtractionOfXylansFromHardwoodChips.xlsx
+Best kernel is:  rbf
+Best Gamma is:  1
+Best C is:  100
+Error in valid: 2.780300103217153
+Error in testing:  25.876718827532613
+EXTRACTION_OF_HEMICELLULOSES_ BY_ ACID.xlsx
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.4233e-18): result may not be accurate.
+  overwrite_a=True).T
+Best kernel is:  rbf
+Best Gamma is:  1
+Best C is:  100
+Error in valid: 2.8753227776559274
+Error in testing:  21.8436681568351
+HotWaterPretreatment.xlsx
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.046e-17): result may not be accurate.
+  overwrite_a=True).T
+Best kernel is:  rbf
+Best Gamma is:  1
+Best C is:  100
+Error in valid: 2.8756401233479423
+Error in testing:  15.46749366501853
+ProductionOfXyloseFromMerantiWood.xlsx
+Best kernel is:  rbf
+Best Gamma is:  1
+Best C is:  100
+Error in valid: 2.7577439717815957
+Error in testing:  5.382526180681558
+QuantitativeAnalysisofSugarsInWoodHydrolyzates.xlsx
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=3.15813e-17): result may not be accurate.
+  overwrite_a=True).T
+Best kernel is:  rbf
+Best Gamma is:  1
+Best C is:  100
+Error in valid: 2.6903130572358473
+Error in testing:  28.079575678847878
+HemicelluloseRemovalFromHardwood.xlsx
+Best kernel is:  rbf
+Best Gamma is:  1
+Best C is:  100
+Error in valid: 2.858793731965341
+Error in testing:  25.39195014721964
+OptimizationOfHydrothermalCHEMPUP.xlsx
+Best kernel is:  rbf
+Best Gamma is:  1
+Best C is:  100
+Error in valid: 2.8760386770177924
+Error in testing:  26.57782004868468
+EffectofEucalytpusGlobulusWoodAutohydrolysis.xlsx
+Best kernel is:  rbf
+Best Gamma is:  1
+Best C is:  100
+Error in valid: 2.8293034342696157
+Error in testing:  1.813218803181158
+DesignOfProcessParametersForProudctionOfXylose.xlsx
+Best kernel is:  rbf
+Best Gamma is:  1
+Best C is:  100
+Error in valid: 2.6842985989071795
+Error in testing:  4.802205485271379

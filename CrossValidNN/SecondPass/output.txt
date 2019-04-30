@@ -1,0 +1,66 @@
+M
+Lowest Error In Validation _MSE_  108.06605657825443
+Best Learning Rate is:  0.01
+Best Batch Size is:  128
+Best Dropout Rate is:  0.0
+65/65 [==============================] - 1s 9ms/step
+H
+Lowest Error In Validation _MSE_  137.42465879967457
+Best Learning Rate is:  0.02
+Best Batch Size is:  128
+Best Dropout Rate is:  0.0
+12/12 [==============================] - 1s 104ms/step
+I
+Lowest Error In Validation _MSE_  162.9884672605947
+Best Learning Rate is:  0.005
+Best Batch Size is:  128
+Best Dropout Rate is:  0.0
+21/21 [==============================] - 2s 91ms/step
+N
+Lowest Error In Validation _MSE_  154.0237919376832
+Best Learning Rate is:  0.02
+Best Batch Size is:  128
+Best Dropout Rate is:  0.0
+85/85 [==============================] - 3s 32ms/step
+K
+Lowest Error In Validation _MSE_  124.3131000473061
+Best Learning Rate is:  0.02
+Best Batch Size is:  128
+Best Dropout Rate is:  0.1
+24/24 [==============================] - 4s 152ms/step
+G
+Lowest Error In Validation _MSE_  146.03464638077406
+Best Learning Rate is:  0.02
+Best Batch Size is:  128
+Best Dropout Rate is:  0.1
+15/15 [==============================] - 5s 331ms/step
+A
+Lowest Error In Validation _MSE_  158.11564522012765
+Best Learning Rate is:  0.002
+Best Batch Size is:  128
+Best Dropout Rate is:  0.0
+32/32 [==============================] - 6s 186ms/step
+J
+Lowest Error In Validation _MSE_  158.2855290135842
+Best Learning Rate is:  0.005
+Best Batch Size is:  128
+Best Dropout Rate is:  0.0
+67/67 [==============================] - 7s 102ms/step
+L
+Lowest Error In Validation _MSE_  141.8927473053381
+Best Learning Rate is:  0.02
+Best Batch Size is:  128
+Best Dropout Rate is:  0.0
+10/10 [==============================] - 8s 817ms/step
+E
+Lowest Error In Validation _MSE_  121.65902321873658
+Best Learning Rate is:  0.005
+Best Batch Size is:  128
+Best Dropout Rate is:  0.1
+400/400 [==============================] - 10s 26ms/step
+O
+Lowest Error In Validation _MSE_  159.57009563930276
+Best Learning Rate is:  0.005
+Best Batch Size is:  128
+Best Dropout Rate is:  0.0
+22/22 [==============================] - 11s 496ms/step

@@ -1,0 +1,3 @@
+papersPerGroup = 2
+   epsilons = [0.1,5,10, 20]
+   Cs = [0.1,1,10, 20]

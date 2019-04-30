@@ -1,0 +1,5 @@
+papersPerGroup = 2
+numBins = 20
+i = 100
+
+Runtime 1.5hrs

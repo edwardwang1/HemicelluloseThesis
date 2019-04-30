@@ -1,0 +1,167 @@
+O
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=8.17691e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=5.57446e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=4.45049e-17): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  100
+Best kernel is:  linear
+Best Epsilon is:  5
+Best C is:  1
+Best Gamma is:  auto
+Error in valid: 146.87233707069586
+I
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=5.35654e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=2.53945e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=8.228e-17): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  100
+Best kernel is:  linear
+Best Epsilon is:  0.1
+Best C is:  0.1
+Best Gamma is:  auto
+Error in valid: 149.38327378322853
+G
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.04364e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=3.10051e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=8.89812e-18): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.18763e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.29887e-17): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  100
+Best kernel is:  linear
+Best Epsilon is:  0.1
+Best C is:  0.1
+Best Gamma is:  auto
+Error in valid: 142.94348493272207
+E
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=2.82231e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=9.57915e-18): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.41869e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=2.387e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=7.67631e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=6.34439e-18): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  100
+Best kernel is:  rbf
+Best Epsilon is:  0.1
+Best C is:  20
+Best Gamma is:  auto
+Error in valid: 132.69662578220914
+K
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=2.39642e-19): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=5.01676e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=4.76422e-18): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=4.61218e-19): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=7.44952e-17): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  100
+Best kernel is:  linear
+Best Epsilon is:  5
+Best C is:  0.1
+Best Gamma is:  auto
+Error in valid: 147.81055194034874
+A
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=4.10022e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=6.07439e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.18763e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=7.44952e-17): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  100
+Best kernel is:  linear
+Best Epsilon is:  0.1
+Best C is:  0.1
+Best Gamma is:  auto
+Error in valid: 150.7193366045546
+H
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=8.24071e-18): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.03985e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=4.37652e-17): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  100
+Best kernel is:  linear
+Best Epsilon is:  0.1
+Best C is:  0.1
+Best Gamma is:  auto
+Error in valid: 150.09182332129694
+L
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=2.88263e-18): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=2.68332e-18): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.18763e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=6.10029e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=5.56985e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=3.47499e-17): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  100
+Best kernel is:  linear
+Best Epsilon is:  0.1
+Best C is:  0.1
+Best Gamma is:  auto
+Error in valid: 142.65384839108447
+J
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=2.82231e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=6.00664e-17): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  5
+Best kernel is:  rbf
+Best Epsilon is:  0.1
+Best C is:  1
+Best Gamma is:  auto
+Error in valid: 159.0843877052741
+M
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=2.82231e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=8.30844e-18): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=3.22197e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=3.33929e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=2.75904e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.1997e-17): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  5
+Best kernel is:  linear
+Best Epsilon is:  5
+Best C is:  1
+Best Gamma is:  auto
+Error in valid: 120.38502064226672
+N
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=1.42748e-17): result may not be accurate.
+  overwrite_a=True).T
+C:\Anaconda3\lib\site-packages\sklearn\linear_model\ridge.py:125: LinAlgWarning: Ill-conditioned matrix (rcond=2.71665e-17): result may not be accurate.
+  overwrite_a=True).T
+Best alpha is:  100
+Best kernel is:  linear
+Best Epsilon is:  5
+Best C is:  1
+Best Gamma is:  auto
+Error in valid: 165.98183350433968

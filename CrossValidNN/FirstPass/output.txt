@@ -1,0 +1,66 @@
+
+Lowest Error In Validation _MSE_  51.926124616672695
+Best Learning Rate is:  0.01
+Best Batch Size is:  128
+Best Dropout Rate is:  0.1
+15/15 [==============================] - 0s 17ms/step
+O
+Lowest Error In Validation _MSE_  54.89939908132334
+Best Learning Rate is:  0.01
+Best Batch Size is:  128
+Best Dropout Rate is:  0.1
+22/22 [==============================] - 0s 20ms/step
+N
+Lowest Error In Validation _MSE_  67.57255218758664
+Best Learning Rate is:  0.005
+Best Batch Size is:  128
+Best Dropout Rate is:  0.1
+85/85 [==============================] - 1s 8ms/step
+L
+Lowest Error In Validation _MSE_  52.239158890207705
+Best Learning Rate is:  0.005
+Best Batch Size is:  128
+Best Dropout Rate is:  0.1
+10/10 [==============================] - 1s 94ms/step
+K
+Lowest Error In Validation _MSE_  61.29214250616457
+Best Learning Rate is:  0.005
+Best Batch Size is:  128
+Best Dropout Rate is:  0.0
+24/24 [==============================] - 1s 49ms/step
+M
+Lowest Error In Validation _MSE_  57.716072353123636
+Best Learning Rate is:  0.01
+Best Batch Size is:  128
+Best Dropout Rate is:  0.0
+65/65 [==============================] - 1s 22ms/step
+J
+Lowest Error In Validation _MSE_  58.55150799896727
+Best Learning Rate is:  0.01
+Best Batch Size is:  128
+Best Dropout Rate is:  0.0
+67/67 [==============================] - 2s 26ms/step
+E
+Lowest Error In Validation _MSE_  35.844827835556735
+Best Learning Rate is:  0.005
+Best Batch Size is:  128
+Best Dropout Rate is:  0.1
+400/400 [==============================] - 2s 5ms/step
+I
+Lowest Error In Validation _MSE_  59.217327212219146
+Best Learning Rate is:  0.01
+Best Batch Size is:  128
+Best Dropout Rate is:  0.1
+21/21 [==============================] - 2s 103ms/step
+A
+Lowest Error In Validation _MSE_  62.27137809933251
+Best Learning Rate is:  0.01
+Best Batch Size is:  128
+Best Dropout Rate is:  0.0
+32/32 [==============================] - 2s 76ms/step
+H
+Lowest Error In Validation _MSE_  56.51306971247924
+Best Learning Rate is:  0.02
+Best Batch Size is:  128
+Best Dropout Rate is:  0.1
+12/12 [==============================] - 3s 227ms/step

@@ -1,0 +1,11 @@
+    kernels =  ['poly', 'rbf', 'linear']
+    epsilons = [0.1,5,10, 20]
+    Cs = [0.1,1,10, 20]
+    gammas = ['scale', 'auto']
+    errors = []
+
+Runtime = 2 hours
+papersPerGroup = 2
+numBins = 10
+
+Take out papers for testing if they have less than 10 points

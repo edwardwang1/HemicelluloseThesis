@@ -1,0 +1,6 @@
+papersPerGroup = 5
+
+    learningRates = [0.002, 0.005, 0.01, 0.02]
+    batchSizes = [128]
+    dropoutRates = [0.00, 0.1]
+    errors = []

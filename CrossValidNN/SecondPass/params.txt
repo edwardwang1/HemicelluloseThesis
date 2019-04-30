@@ -1,0 +1,9 @@
+    learningRates = [0.002, 0.005, 0.01, 0.02]
+    batchSizes = [128]
+    dropoutRates = [0.00, 0.1]
+    errors = []
+
+papersPerGroup = 2
+numBins = 10
+
+1 day 7 hours 19 min

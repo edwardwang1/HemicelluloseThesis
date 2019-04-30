@@ -1,0 +1,4 @@
+PapersPergroup = 3
+
+10 loops of random
+
