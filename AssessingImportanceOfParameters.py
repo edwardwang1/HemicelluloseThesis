@@ -9,7 +9,6 @@ from openpyxl import load_workbook
 import os
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 import math
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
@@ -171,8 +170,6 @@ resultsFrame = pd.concat([resultsFrame, tempDf], ignore_index=True)
     
 
 resultsFrame.to_csv("paraemtersWithoutRoP.csv")
-resultsFrame.plot(kind='bar', stacked=False, x='Param')
-
     
 
 
@@ -244,8 +241,6 @@ for i in ['Ro', 'LogRo', 'P', 'LogP']:
     resultsFrame = pd.concat([resultsFrame, tempDf], ignore_index=True)
 
 resultsFrame.to_csv("paraemtersWithRoP.csv")
-resultsFrame.plot(kind='bar', stacked=False, x='Param')
-
     
 
 
@@ -353,8 +348,6 @@ resultsFrame = pd.concat([resultsFrame, tempDf], ignore_index=True)
         
 
 resultsFrame.to_csv("NNparaemtersWithoutRoP.csv")
-resultsFrame.plot(kind='bar', stacked=False, x='Param')
-
     
 
 
@@ -412,9 +405,7 @@ for i in ['Ro', 'LogRo', 'P', 'LogP']:
     resultsFrame = pd.concat([resultsFrame, tempDf], ignore_index=True)
 
 resultsFrame.to_csv("NNparaemtersWithRoP.csv")
-resultsFrame.plot(kind='bar', stacked=False, x='Param')
-
-    
+   
 
 
 # In[ ]:
